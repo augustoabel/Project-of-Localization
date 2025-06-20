@@ -4,7 +4,7 @@ import 'leaflet/dist/leaflet.css';
 import { useEffect, useState } from 'react';
 
 // Import both JSON files
-import newClientsData from "../../../Merge JSON/updated_exhibitors_data.json"; // Your newly geocoded data (New Clients)
+import newClientsData from "../updated_exhibitors_data.json"; // Your newly geocoded data (New Clients)
 import oldClientsDataBoyd from "../../../python/boyd/boydCustomerUSA&CAN.json"; // Your existing data (Old Clients)
 import oldClientsDataAdam from "../../../python/adam/adamCustomerUSA&CAN.json"; // Your existing data (Old Clients)
 import oldClientsDataBill from "../../../python/bill/billCustomerUSA&CAN.json"; // Your existing data (Old Clients)

@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import ResultsTable from './pages/DistanceBtwCustomerAndSeller/ResultsTable.jsx'; // ajuste o caminho conforme necessário
 import Home from './pages/Home.jsx'; // exemplo de outra página
-import Json from "../../Merge JSON/updated_exhibitors_data.json"
+import Json from "./updated_exhibitors_data.json"
 import Header from "./components/Header";
 import KpiCard from "./components/KpiCard";
 import ChartSection from "./components/ChartSection";
