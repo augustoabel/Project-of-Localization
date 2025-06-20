@@ -1,0 +1,35 @@
+[
+  {
+    "Company": "Aubin Nurseries Ltd.",
+    "Address 1": "1.5 miles east of Carman, Hwy 3",
+    "City": "Carman",
+    "Province": "MB",
+    "Country": "CAN",
+    "Postal Code": "R0G 0J0",
+    "Contact": "Garth Aubin",
+    "Phone": "(204) 745-6703",
+    "Email": "garth@aubinnurseries.ca"
+  },
+  {
+    "Company": "Falk Nurseries",
+    "Address 1": "23062 PR311",
+    "City": "New Bothwell",
+    "Province": "MB",
+    "Country": "CAN",
+    "Postal Code": "R0A 1C0",
+    "Contact": "Ryan Falk",
+    "Phone": "(204) 388-4927",
+    "Email": "info@falknurseries.com"
+  },
+  {
+    "Company": "Jeffries Nursery",
+    "Address 1": "Six Miles East of Portage La Prairie",
+    "City": "Portage La Prairie",
+    "Province": "MB",
+    "Country": "CAN",
+    "Postal Code": "",
+    "Contact": "Shawna Bell",
+    "Phone": "(204) 857-5288",
+    "Email": "shawna.ronald@jeffriesnurseries.com"
+  }
+]
